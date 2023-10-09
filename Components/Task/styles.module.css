@@ -1,0 +1,30 @@
+.task {
+  width: 150px;
+  height: 70px;
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  margin-top: 50px;
+  position: relative;
+}
+
+.task p {
+  font-family:lucida 'Courier New', Courier, monospace;
+  font-size: 20px;
+  padding: 30px;
+  color: white;
+  font-weight: bold;
+}
+.task button{
+  position:absolute;
+  display: flex;
+  cursor: pointer;
+  right: 5px;
+  top: 0;
+  border: none;
+  font-size: 20px;
+  background-color: blueviolet;
+
+}

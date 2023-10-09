@@ -1,0 +1,17 @@
+.addTask input {
+  width: 40%;
+  height: 30px;
+  margin-bottom: 20px;
+
+}
+.addTask button {
+  width: 10%;
+  height: 36px;
+  background-color: rgb(52, 212, 52);
+  color: white;
+  margin: 10px;
+}
+.addTask{
+  display: flex;
+  flex-direction: column;
+}
